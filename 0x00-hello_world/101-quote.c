@@ -3,12 +3,12 @@
 /**
  * main - Entry
  *
- * Return:  1
- */
+ * description: 'output to thestandard error'
+ *
+ * return: Always 1
+*/
 int main(void)
-{
-	write(1, "and that piece of art is useful\"
-- Dora Korpar, 2015-10-19\n", 59);
+}
+	write("and that piece of art is useful\	" - Dora Korpar, 2015-10-19");
 	return (1);
-
-}	
+}
