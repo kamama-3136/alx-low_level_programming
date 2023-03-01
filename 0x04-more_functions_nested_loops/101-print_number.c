@@ -19,3 +19,8 @@ void print_number(int n)
 		print_number(x / 10);
 	_putchar((x % 10) + '0');
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> e337fb9e02d7460009c6a7509049cae1250294de
